@@ -1,20 +1,12 @@
 //
 //  main.cpp
-//  lab3
 //
 //  Created by Niveta Chowdhry on 2/7/18.
 //  Copyright © 2018 Niveta Chowdhry. All rights reserved.
 //
 
-/************************************************************/
-/*  Lab 3 tester                                            */
-/*  To compile:                                             */
-/*     g++ lab3tester.cpp -std=c++0x                        */
-/*  To run:                                                 */
-/*     ./a.out                                              */
-/************************************************************/
 
-#include "lab3.h"
+#include "LinkedList.h"
 #include <iostream>
 
 int main(void){
